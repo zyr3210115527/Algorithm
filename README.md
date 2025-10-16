@@ -1,6 +1,7 @@
 # Algorithm update log
-## 2015.10.15 
+## 2025.10.15 
 Bubble sorted
 
 Leetcode-283
-
+## 2025.10.16
+Heap sorted(二叉树)
